@@ -18,6 +18,8 @@
 
 ---
 
+<!--
+
 <p align = "center">💡 Various templates & tips on writing high-quality documentation that people want to read.</p>
 
 
@@ -149,3 +151,5 @@ Further reading on technical writing topics from [www.writethedocs.org](https://
   has waived all copyright and related or neighboring rights to
   <span property="dct:title">The Documentation Compendium</span>.
 </p>
+
+-->
