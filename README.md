@@ -242,14 +242,14 @@ npm install tail
 selanjutnya, jalankan perintah menggunakan `node index.js` lalu pada discord, ketik (prefix)mod-logs pada channel yang anda inginkan, lalu bot akan otomatis mengupdate setiap ada serangan dari luar kedalam channel tersebut.
 
 ## Screenshoot <a name = "ss"></a>
+![ss1](https://github.com/peacefulhack/Modsecurity_azure/blob/main/screenshoot/justice.png)
+![ss2](https://github.com/peacefulhack/Modsecurity_azure/blob/main/screenshoot/justice2.png)
+![ss3](https://github.com/peacefulhack/Modsecurity_azure/blob/main/screenshoot/justice3.png)
 
-- [feedmereadmes](https://github.com/LappleApple/feedmereadmes) - Free README editing + feedback to make your open-source projects grow. See the README maturity model to help you keep going
-- [maintainer.io](https://maintainer.io/) - Free README standardization and feedback if you click on 'Book an audit'
 
 
-## Acknowledgements <a name = "acknowledgements"></a>
+## Rujukan <a name = "acknowledgements"></a>
 
-1. [Documenting your projects on GitHub](https://guides.github.com/features/wikis/) - GitHub Guides
-2. [documentation-handbook](https://github.com/jamiebuilds/documentation-handbook) - jamiebuilds
-3. [Documentation Guide](https://www.writethedocs.org/guide/) - Write the Docs
+1. [Modsecurity](https://github.com/SpiderLabs/ModSecurity/wiki) - Dokumentasi Modsecurity
+2. [Discord.js](https://discord.js.org/#/docs/main/stable/general/welcome) - Dokumentasi lengkap Discord Js
 
